@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ayushman Kasuhal</h1>
-<h3 align="center">A passionate budding web developer from India</h3>
+<h3 align="center">A passionate developer from India</h3>
 
 - 🌱 I’m currently learning AWS , Cloud Computing**
-
-- 📝 I regularly write articles on [twitter](twitter)
 
 - 📫 How to reach me **ayushmannkaushal@gmail.com**
 
