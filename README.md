@@ -12,8 +12,6 @@
 - 🎓 Computer Science Engineering student at **Lovely Professional University**
 - 💻 Building projects with **React.js**, **Python**, and **AWS Cloud**
 - 🌱 Currently deepening my expertise in **AWS & Cloud Computing**
-- 🎯 Solved **100+ DSA problems** across LeetCode, HackerRank & GeeksForGeeks
-- 🏆 Competed in multiple hackathons: **IIT Ropar Gen AI, Apna College, Eclearnix**
 - 📫 Reach me at: **ayushmannkaushal@gmail.com**
 - 🌐 Portfolio: **[ak-dev031.vercel.app](https://ak-dev031.vercel.app/)**
 
@@ -56,15 +54,6 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
-### 📜 Certifications
-
-- 🎓 **AWS Academy Cloud Foundations**
-- 🎓 **Oracle Certified Foundations Associate**
-- 🎓 **Introduction to Internet of Things**
-- 🎓 **Mastering Data Structures & Algorithms using C and C++**
 
 ---
 
